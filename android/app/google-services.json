@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940702591840",
+    "project_id": "flutter-bloc-otp-auth",
+    "storage_bucket": "flutter-bloc-otp-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940702591840:android:042bf1edf0040956c44c05",
+        "android_client_info": {
+          "package_name": "com.example.flutter_bloc_otp_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940702591840-on9a5ruo1hr0ilekp8ihodul85rg2kvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqvj3klBnGSHKkzP5iVehI3SlLs69IfFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940702591840-on9a5ruo1hr0ilekp8ihodul85rg2kvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
